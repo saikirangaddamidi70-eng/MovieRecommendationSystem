@@ -350,7 +350,7 @@ Cloud Deployment
 Live Web Application
 
 <img width="1797" height="991" alt="Screenshot 2026-09-25 190811" src="https://github.com/user-attachments/assets/36f1e968-0e54-47ad-a3fc-861c2dccbc02" />
-<img width="1587" height="981" alt="Screenshot 2026-09-25 190831" src="https://github.com/user-attachments/assets/1de1f091-eadc-4791-a156-9019bbeed60c" />
+<img width="1757" height="797" alt="Screenshot 2026-09-25 201752" src="https://github.com/user-attachments/assets/80eeb507-c52e-4fdf-a187-a3709a42015e" />
 
 
 ---
