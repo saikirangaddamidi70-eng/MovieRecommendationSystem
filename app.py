@@ -483,3 +483,4 @@ if not selected_data.empty:
                 st.write(
                     f"🔥 **Popularity:** {popularity:.2f}"
                 )
+
