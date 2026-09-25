@@ -208,26 +208,6 @@ Display recommendations
 
 ---
 
-## 📐 Similarity
-
-The project can use TF-IDF to represent textual movie features.
-
-Movie Metadata
-      ↓
-Text Processing
-      ↓
-TF-IDF Vectorization
-      ↓
-Movie Vectors
-      ↓
-Cosine Similarity
-      ↓
-Similar Movies
-
-Cosine similarity measures how similar two movie feature vectors are.
-
----
-
 ## 🎬 Web Application
 
 The project includes an interactive Streamlit web application.
@@ -266,37 +246,6 @@ Application Flow
 - Movie information
 - Simple and user-friendly interface
 - Streamlit-based web application
-
----
-
-📁 Project Structure
-
-Movie-Recommendation-System/
-│
-├── data/
-│   ├── movies.csv
-│   ├── ratings.csv
-│   └── movie_revenue.csv
-│
-├── notebook/
-│   ├── Movie_Recommendation.ipynb
-│
-├── models/
-│   ├── tfidf_vectorizer.pkl
-│   ├── similarity.pkl
-│   └── movie_data.pkl
-│
-├── sql/
-│   └── movie_analysis.sql
-│
-├── powerbi/
-│   └── movie_dashboard.pbix
-│
-├── app.py
-├── .gitignore
-└── README.md
-
-«The exact model files may change depending on the final implementation.»
 
 ---
 
@@ -346,7 +295,7 @@ Movie Analytics
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/Movie-Recommendation-System.git
+git clone https://github.com/saikirangaddamidi70-eng/MovieRecommendationSystem.git
 
 Move into the project directory:
 
